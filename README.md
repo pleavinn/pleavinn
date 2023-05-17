@@ -10,7 +10,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/224dsxem6r2v5jhsdz7nw4h3i)
 
   
-<div align="center">
+
   <a href="https://github.com/pleavinn">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pleavinn&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pleavinn&layout=compact&langs_count=7&theme=blueberry"/>
